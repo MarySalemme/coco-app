@@ -7,5 +7,5 @@ test('Header component renders the header text', () => {
 
   const name = wrapper.find('.name')
 
-  expect(name.text()).toBe('Coco Eventi')
+  expect(name.text()).toBe('Coco eventi')
 })

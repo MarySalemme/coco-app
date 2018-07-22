@@ -1,0 +1,38 @@
+.navbar {
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+.brand {
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  background-color: #fff;
+  width: 40px;
+  height: 40px;
+  float: left;
+  top: 5px;
+}
+
+.name {
+  float: left;
+  color: #fff;
+}
+
+.nameBold {
+  position: relative;
+  left: 50px;
+  font-weight: 900;
+}
+
+.nameLight {
+  position: relative;
+  left: 50px;
+  font-weight: 200;
+}
+
+.items{
+  float: right;
+}
